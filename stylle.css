@@ -1,5 +1,3 @@
-
-
 body {
     background-color: black;
     color: aquamarine;
@@ -13,7 +11,7 @@ body {
 
  button {
     background-color: rgb(177, 24, 24);
-    color: aliceblue;
+    color: rgb(0, 121, 226);
     font-family: "Hachi Maru Pop", cursive;
  }
 
@@ -23,5 +21,9 @@ body {
 
  .passo-ativo {
     display: block;
-
  }
+
+  main {
+    text-align: center;
+    max-width: 90%;
+  }
