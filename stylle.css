@@ -1,14 +1,27 @@
-font-family: "Hachi Maru Pop", cursive;
 
 
 body {
     background-color: black;
     color: aquamarine;
-    
-
-
-
-
-
-
+    font-family: "Hachi Maru Pop", cursive;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 700px;
+    margin: 0;
 }
+
+ button {
+    background-color: rgb(177, 24, 24);
+    color: aliceblue;
+    font-family: "Hachi Maru Pop", cursive;
+ }
+
+ .passo {
+    display: none;
+ }
+
+ .passo-ativo {
+    display: block;
+
+ }
