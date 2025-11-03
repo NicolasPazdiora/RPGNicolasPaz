@@ -1,6 +1,6 @@
 body {
-    background-color: rgb(241, 49, 49);
-    color: aquamarine;
+    background-color: rgb(85, 235, 235);
+    color: rgb(255, 136, 127);
     font-family: "Hachi Maru Pop", cursive;
     display: flex;
     justify-content: center;
@@ -10,8 +10,8 @@ body {
 }
 
  button {
-    background-color: rgb(177, 24, 24);
-    color: rgb(243, 243, 243);
+    background-color: whitesmoke;
+    color: rgb(10, 9, 10);
     font-family: "Hachi Maru Pop", cursive;
  }
 
