@@ -1,5 +1,5 @@
 body {
-    background-color: black;
+    background-color: rgb(241, 49, 49);
     color: aquamarine;
     font-family: "Hachi Maru Pop", cursive;
     display: flex;
@@ -11,7 +11,7 @@ body {
 
  button {
     background-color: rgb(177, 24, 24);
-    color: rgb(0, 121, 226);
+    color: rgb(243, 243, 243);
     font-family: "Hachi Maru Pop", cursive;
  }
 
